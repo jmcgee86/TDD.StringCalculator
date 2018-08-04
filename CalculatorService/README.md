@@ -1,0 +1,7 @@
+- An empty string returns zero
+- A single number returns the value
+- Two numbers, comma delimited, returns the sum
+- Two numbers, newline delimited, returns the sum
+- Three numbers, delimited either way, returns the sum
+- Negative numbers throw an exception
+- Numbers greater than 1000 are ignored

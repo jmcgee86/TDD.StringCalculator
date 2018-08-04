@@ -1,0 +1,9 @@
+/Users/jmcgee/Documents/TDD.StringCalculator/CalculatorService/bin/Debug/netstandard2.0/CalculatorService.deps.json
+/Users/jmcgee/Documents/TDD.StringCalculator/CalculatorService/bin/Debug/netstandard2.0/CalculatorService.dll
+/Users/jmcgee/Documents/TDD.StringCalculator/CalculatorService/bin/Debug/netstandard2.0/CalculatorService.pdb
+/Users/jmcgee/Documents/TDD.StringCalculator/CalculatorService/obj/Debug/netstandard2.0/CalculatorService.csprojAssemblyReference.cache
+/Users/jmcgee/Documents/TDD.StringCalculator/CalculatorService/obj/Debug/netstandard2.0/CalculatorService.csproj.CoreCompileInputs.cache
+/Users/jmcgee/Documents/TDD.StringCalculator/CalculatorService/obj/Debug/netstandard2.0/CalculatorService.AssemblyInfoInputs.cache
+/Users/jmcgee/Documents/TDD.StringCalculator/CalculatorService/obj/Debug/netstandard2.0/CalculatorService.AssemblyInfo.cs
+/Users/jmcgee/Documents/TDD.StringCalculator/CalculatorService/obj/Debug/netstandard2.0/CalculatorService.dll
+/Users/jmcgee/Documents/TDD.StringCalculator/CalculatorService/obj/Debug/netstandard2.0/CalculatorService.pdb
